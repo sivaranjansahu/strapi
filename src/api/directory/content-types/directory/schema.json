@@ -1,0 +1,17 @@
+{
+  "kind": "collectionType",
+  "collectionName": "directories",
+  "info": {
+    "singularName": "directory",
+    "pluralName": "directories",
+    "displayName": "directory"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "attributes": {
+    "directoryName": {
+      "type": "string"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "kind": "collectionType",
+  "collectionName": "niches",
+  "info": {
+    "singularName": "niche",
+    "pluralName": "niches",
+    "displayName": "niche"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "attributes": {
+    "nicheTitle": {
+      "type": "string"
+    }
+  }
+}

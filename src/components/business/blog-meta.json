@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_business_blog_metas",
+  "info": {
+    "displayName": "blogMeta",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "state": {
+      "type": "string"
+    },
+    "city": {
+      "type": "string"
+    },
+    "niche": {
+      "type": "relation",
+      "relation": "oneToOne",
+      "target": "api::niche.niche"
+    }
+  }
+}

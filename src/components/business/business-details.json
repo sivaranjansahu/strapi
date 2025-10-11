@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_business_business_details",
+  "info": {
+    "displayName": "businessDetails"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "starRating": {
+      "type": "decimal"
+    },
+    "website": {
+      "type": "string"
+    },
+    "address": {
+      "type": "string"
+    }
+  }
+}
